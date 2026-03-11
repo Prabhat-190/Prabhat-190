@@ -1,75 +1,94 @@
-<h1 align="center">Hi there, I'm Prabhat Kumar 👋</h1>
+<h1 align="center">Hi 👋, I'm Prabhat Kumar</h1>
 
-<h3 align="center">Mathematics & Computing Undergraduate @ IIT Kharagpur | Full-Stack & ML Developer</h3>
+<h3 align="center">Mathematics & Computing @ IIT Kharagpur | Software Developer</h3>
+
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Developer;Machine+Learning+Enthusiast;Building+AI+Systems;IIT+Kharagpur+Student&center=true&width=500&height=45">
+</p>
 
 <p align="center">
 <a href="https://www.linkedin.com/in/prabhat-kumar-134228255">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/LinkedIn-0077B5%3Fstyle%3Dfor-the-badge%26logo%3Dlinkedin%26logoColor%3Dwhite" alt="LinkedIn" />
+<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin">
 </a>
 <a href="mailto:sauravsandilya7367905043@gmail.com">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Email-D14836%3Fstyle%3Dfor-the-badge%26logo%3Dgmail%26logoColor%3Dwhite" alt="Email" />
+<img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail">
+</a>
+<a href="https://github.com/Prabhat-190">
+<img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github">
 </a>
 </p>
 
-👨‍💻 About Me
+---
 
-🎓 I'm currently pursuing my B.S. in Mathematics and Computing at the Indian Institute of Technology (IIT), Kharagpur (Class of 2027).
+## 👨‍💻 About Me
 
-💻 Passionate about software engineering, building scalable web applications, and designing real-time Machine Learning systems.
+🎓 B.S. Mathematics & Computing — **IIT Kharagpur (2027)**
 
-🧠 Strong analytical foundation with coursework in Data Structures & Algorithms, Real Analysis, Probability & Statistics, and Stochastic Processes.
+💻 Interested in **Software Engineering, Machine Learning & FinTech Systems**
 
-🚀 I specialize in FinTech simulators, interactive data dashboards, and AI-integrated full-stack applications.
+🚀 Building **AI tools, real-time dashboards and scalable web applications**
 
-🛠️ Tech Stack & Tools
+---
 
-Languages:
+## 🛠 Tech Stack
 
-Data Science & Machine Learning:
+![C++](https://img.shields.io/badge/C++-blue?style=for-the-badge\&logo=cplusplus)
+![Python](https://img.shields.io/badge/Python-yellow?style=for-the-badge\&logo=python)
+![JavaScript](https://img.shields.io/badge/JavaScript-black?style=for-the-badge\&logo=javascript)
+![React](https://img.shields.io/badge/React-blue?style=for-the-badge\&logo=react)
+![NodeJS](https://img.shields.io/badge/Node.js-green?style=for-the-badge\&logo=node.js)
+![MongoDB](https://img.shields.io/badge/MongoDB-darkgreen?style=for-the-badge\&logo=mongodb)
+![Scikit Learn](https://img.shields.io/badge/ScikitLearn-orange?style=for-the-badge\&logo=scikitlearn)
+![Streamlit](https://img.shields.io/badge/Streamlit-red?style=for-the-badge\&logo=streamlit)
 
-Web Development (Full-Stack):
+---
 
-Tools & Infrastructure:
+## 🚀 Projects
 
-🚀 Highlighted Projects
+🛡 **FraudShield AI**
+Real-time fraud detection dashboard using **Machine Learning + Streamlit + Plotly**
 
-🛡️ Fraud Shield Enterprise
+📈 **Algorithmic Trade Simulator**
+WebSocket-based trading simulator processing **live orderbook data**
 
-A dynamic real-time risk intelligence and fraud detection engine.
+💳 **AI Payment Assistant**
+AI-powered budgeting system built using **React, MongoDB and LangChain**
 
-⚙️ Engineered a Scikit-Learn Random Forest pipeline to evaluate live network telemetry.
+---
 
-📊 Developed an algorithm to dynamically synthesize log-normal transaction data for training continuous risk-probability curves.
-
-🖥️ Built a tactical Streamlit + Plotly SOC Dashboard with sub-second inference latency, processing live asset data via the Kraken API.
-
-📈 Algorithmic Trade Simulator
-
-Real-time trading dashboard built on asynchronous websocket architecture.
-
-⚡ Processed live Level-2 OKX orderbook data via WebSockets for zero-latency market visualization.
-
-💱 Implemented a custom trade-matching engine utilizing Python and Dash.
-
-🏗️ Focused on highly modular architecture for backtesting trading strategies and real-time data aggregation.
-
-💳 AI Payment Assistant (Amazon HackOn 2024)
-
-Smart budgeting and spending tracker.
-
-🤖 Integrated LangChain & GPT-3.5 to provide intelligent, contextual payment suggestions.
-
-🌐 Built a full-stack React.js & MongoDB architecture with interactive spending visualizations using D3.js/Chart.js.
-
-📊 GitHub Stats
+## 📊 GitHub Stats
 
 <p align="center">
-<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3DPrabhat-190%26show_icons%3Dtrue%26theme%3Dtokyonight%26hide_border%3Dtrue%26bg_color%3D0d1117" alt="Prabhat's GitHub Stats" />
-<img src="https://www.google.com/search?q=https://github-readme-streak-stats.herokuapp.com/%3Fuser%3DPrabhat-190%26theme%3Dtokyonight%26hide_border%3Dtrue%26background%3D0d1117" alt="Prabhat's GitHub Streak" />
+<img src="https://github-readme-stats.vercel.app/api?username=Prabhat-190&show_icons=true&theme=tokyonight&hide_border=true">
 </p>
 
 <p align="center">
-<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs/%3Fusername%3DPrabhat-190%26layout%3Dcompact%26theme%3Dtokyonight%26hide_border%3Dtrue%26bg_color%3D0d1117" alt="Top Languages" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Prabhat-190&theme=tokyonight&hide_border=true">
 </p>
 
-<p align="center"><i>"Code is like humor. When you have to explain it, it’s bad."</i></p>
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prabhat-190&layout=compact&theme=tokyonight&hide_border=true">
+</p>
+
+---
+
+## 🌌 Contribution Graph
+
+<p align="center">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Prabhat-190&theme=tokyonight">
+</p>
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Prabhat-190&theme=tokyo-night">
+</p>
+
+---
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=Prabhat-190&style=for-the-badge">
+</p>
+
+<p align="center">
+<i>"Code is like humor. When you have to explain it, it's bad."</i>
+</p>
+
