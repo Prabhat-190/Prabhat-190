@@ -22,7 +22,7 @@
 
 ## 👨‍💻 About Me
 
-🎓 B.S. Mathematics & Computing — **IIT Kharagpur (2027)**
+🎓  Mathematics & Computing — **IIT Kharagpur (2027)**
 
 💻 Interested in **Software Engineering, Machine Learning & FinTech Systems**
 
