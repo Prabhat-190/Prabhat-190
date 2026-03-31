@@ -20,10 +20,10 @@
 
 ## 🚀 About
 
-• Undergraduate in **Mathematics & Computing at IIT Kharagpur**
+•  **Mathematics & Computing at IIT Kharagpur**
 
 • Strong foundation in
-**Algorithms • Probability • Statistics • Data Structures**
+**Algorithms • Probability Statistics • Big data analysis • Data Structures**
 
 • Interested in building
 **Machine Learning systems, real-time data platforms and scalable applications**
